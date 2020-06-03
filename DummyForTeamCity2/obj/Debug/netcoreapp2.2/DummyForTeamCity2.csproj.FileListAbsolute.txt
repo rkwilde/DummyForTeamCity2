@@ -1,0 +1,12 @@
+D:\repos\DummyForTeamCity2\DummyForTeamCity2\bin\Debug\netcoreapp2.2\DummyForTeamCity2.deps.json
+D:\repos\DummyForTeamCity2\DummyForTeamCity2\bin\Debug\netcoreapp2.2\DummyForTeamCity2.runtimeconfig.json
+D:\repos\DummyForTeamCity2\DummyForTeamCity2\bin\Debug\netcoreapp2.2\DummyForTeamCity2.runtimeconfig.dev.json
+D:\repos\DummyForTeamCity2\DummyForTeamCity2\bin\Debug\netcoreapp2.2\DummyForTeamCity2.dll
+D:\repos\DummyForTeamCity2\DummyForTeamCity2\bin\Debug\netcoreapp2.2\DummyForTeamCity2.pdb
+D:\repos\DummyForTeamCity2\DummyForTeamCity2\obj\Debug\netcoreapp2.2\DummyForTeamCity2.csprojAssemblyReference.cache
+D:\repos\DummyForTeamCity2\DummyForTeamCity2\obj\Debug\netcoreapp2.2\DummyForTeamCity2.csproj.CoreCompileInputs.cache
+D:\repos\DummyForTeamCity2\DummyForTeamCity2\obj\Debug\netcoreapp2.2\DummyForTeamCity2.AssemblyInfoInputs.cache
+D:\repos\DummyForTeamCity2\DummyForTeamCity2\obj\Debug\netcoreapp2.2\DummyForTeamCity2.AssemblyInfo.cs
+D:\repos\DummyForTeamCity2\DummyForTeamCity2\obj\Debug\netcoreapp2.2\DummyForTeamCity2.dll
+D:\repos\DummyForTeamCity2\DummyForTeamCity2\obj\Debug\netcoreapp2.2\DummyForTeamCity2.pdb
+D:\repos\DummyForTeamCity2\DummyForTeamCity2\obj\Debug\netcoreapp2.2\DummyForTeamCity2.genruntimeconfig.cache
